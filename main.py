@@ -1,3 +1,5 @@
+import numpy as np
+
 def fibonacci_series(n):
     """Generate a Fibonacci series up to n terms."""
     series = []
